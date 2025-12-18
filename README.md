@@ -16,10 +16,13 @@ He creado modelos de regresión lineal con métricas sublimes como predicción d
 <img width="466" height="59" alt="Abstract Technology Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/595255c1-ee6f-41f4-9032-fb86bd252b76" />
 
 ## 📂 Proyectos:
-**Modelo predictivo de tasa de abandono (churn-rate)**
+**Modelo predictivo de tasa de abandono (churn-rate)** (https://github.com/Steadfastbubble/client_churn)
 Desarrollo de un modelo de machine learning para predecir la cancelación de suscripciones y así desarrollar una estrategia de marketing para la retención de clientes.
 Acción: Limpieza de datos, análisis constante de tablas, ingeniería de datos, propuesta y modelaje completo de distintos modelos de predicción incluyendo; Regresión lineal, XGBoost, LightGBM, Árbol de Decisión y Bosque Aleatorio.  
 Logro: Alcancé un 88% de exactitud en la predicción de churn, superando el criterio inicial del proyecto y optimizando estrategias de retención.  
+* **Logro:** Modelo con **88% AUC-ROC** para predecir abandono de clientes.
+* **Tech:** Python, XGBoost, LightGBM, Scikit-Learn.
+* **Impacto:** Permite estrategias de marketing proactivas para retención.
 
 **Prototipo de un modelo de Machine Learning para Zyfra**
 Creación de modelo capaz de predecir la cantidad de oro extraído del mineral de oro, obtenido de los datos de extracción y purificación de la maquinaria industrial. El modelo ayuda a optimizar la producción y a eliminar los parámetros no rentables.
