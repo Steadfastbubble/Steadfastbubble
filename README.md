@@ -13,4 +13,4 @@ He creado modelos de regresión lineal con métricas sublimes como predicción d
 -**Análisis Estadístico:** Scipy, Evaluación y Optimización de Modelos.
 
 ## Stack:
-
+<img width="466" height="59" alt="Abstract Technology Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/595255c1-ee6f-41f4-9032-fb86bd252b76" />
