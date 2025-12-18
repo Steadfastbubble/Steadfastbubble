@@ -1,6 +1,5 @@
 ## Sobre mí 👋
 👷
-<!--
 Me apasiona la resolución de problemas e investigación orientada a los datos con formación internacional y una gran entusiasmo por convertir la información en decisiones estratégicas.
 Después de estudiar 3 años y trabajar 2 en Canadá, desarrollé sólidas habilidades analíticas, comunicativas y de trabajo en equipo, que hoy aplico al campo de la ciencia de datos y la optimización de procesos empresariales.
 He creado modelos de regresión lineal con métricas sublimes como predicción de churn (abandono) de 88% en Curva de ROC, modelos predictivos de inventarios con MAPE de 0.04% entre otros.
