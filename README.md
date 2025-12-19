@@ -15,8 +15,29 @@ He creado modelos de regresión lineal con métricas sublimes como predicción d
 ## Stack:
 <img width="466" height="59" alt="Abstract Technology Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/595255c1-ee6f-41f4-9032-fb86bd252b76" />
 
-## 📂 Proyectos:
-**Modelo predictivo de tasa de abandono (churn-rate)** https://github.com/Steadfastbubble/client_churn  
+
+# 🚀 Data Science Portfolio
+
+Aquí hay algunos de los proyectos de data science y machine learning en los cuales he puesto a prueba mis habilidades de cientifico de datos.
+
+| Project | Description | Tech Stack | View Project |
+| :--- | :--- | :--- | :---: |
+| <img src="./sample_mosaic.png" width="200" alt="Face Recognition"> | **Facial Age Prediction** <br> Predicting human age using ResNet50 and Computer Vision techniques. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | [📂 Open Repo](https://github.com/Steadfastbubble/facial_recognition) |
+| <img src="https://via.placeholder.com/200x120?text=ML+Model" width="200" alt="ML Project"> | **Churn Prediction** <br> Modelo de Clasificación para detección de abandono de clientes. | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | [📂 Open Repo](https://github.com/Steadfastbubble/client_churn) |
+| <img src="https://via.placeholder.com/200x120?text=Data+Analysis" width="200" alt="EDA Project"> | **Exploratory Data Analysis** <br> Deep dive into customer behavior for retail optimization. | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat&logo=python&logoColor=white) | [📂 Open Repo](https://github.com/tu-usuario/otro-repo) |
+
+
+---
+
+## 🛠️ Skills & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+
+## 📂 Quick overview de mis proyectos
+**Modelo predictivo de tasa de abandono (churn-rate)**
 Desarrollo de un modelo de machine learning para predecir la cancelación de suscripciones y así desarrollar una estrategia de marketing para la retención de clientes.
 Acción: Limpieza de datos, análisis constante de tablas, ingeniería de datos, propuesta y modelaje completo de distintos modelos de predicción incluyendo; Regresión lineal, XGBoost, LightGBM, Árbol de Decisión y Bosque Aleatorio.  
 Logro: Alcancé un 88% de exactitud en la predicción de churn, superando el criterio inicial del proyecto y optimizando estrategias de retención.  
